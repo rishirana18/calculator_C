@@ -9,3 +9,5 @@ Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
 ##Week 3
 Created python function and uploaded to github(not yet but will do today)
+##Week4
+created a run.sh file
