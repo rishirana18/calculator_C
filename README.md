@@ -11,3 +11,7 @@ The program prints Result: followed by the answer.
 Created python function and uploaded to github(not yet but will do today)
 ##Week4
 created a run.sh file
+##Week 5
+created a test file for calculator
+added a check.sh file
+check file expects 5 tests to be run
