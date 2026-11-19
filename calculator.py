@@ -14,7 +14,7 @@ def CircleArea(r):
     if r>=0:
        return 3.14 * r * r
     else:
-       return "NaN"
+       return "Error"
 
 def main():
     choice=int(input("please enter a number for your operation\n 1=add, 2=sub, 3=/, 4=*, 5=area"))
